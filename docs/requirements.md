@@ -1,6 +1,6 @@
 # Building a REST API for an E-commerce Application
 
-In this project, you will build a REST API for an e-commerce application. This API will serve as the backend for managing products, customers, orders, and related data. We will use Java, Spring, Spring boot tech stack to implement this.
+In this project, you will build a REST API for an e-commerce application. This API will serve as the backend for managing products, customers, orders, and related data. We will use nodejs, expressjs tech stack to implement this.
 
 You must use the below provided database schema as the foundation for your implementation.
 
